@@ -60,7 +60,7 @@ cd Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/src
 # 注意
 
 * 実行に時間がかかる: `3時間37分17秒`
-    * [21秒](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/01_uniq/note.md
+    * [21秒](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/01_uniq/note.md)
     * [9分20秒](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/02_common/note.md)
     * [207分36秒]https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/03_yku/note.md)
 
