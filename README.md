@@ -8,13 +8,13 @@ Create a TSV file that covers the reading and notation of Japanese names (not su
 
 File|lines|"Reading"|"Notation"
 ----|-----|---------|----------
-[m.tsv][]||male only|male only
-[f.tsv][]||female only|female only
-[c.tsv][]||male and female|male and female
-[mc.tsv][]||male only|male and female
-[fc.tsv][]||female only|male and female
-[cm.tsv][]||male and female|male only
-[cf.tsv][]||male and female|female only
+[m.tsv][]|82732|male only|male only
+[f.tsv][]|76890|female only|female only
+[c.tsv][]|4518|male and female|male and female
+[mc.tsv][]|2072|male only|male and female
+[fc.tsv][]|2437|female only|male and female
+[cm.tsv][]|14151|male and female|male only
+[cf.tsv][]|16504|male and female|female only
 
 [m.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/master/src/03_yku/m.tsv
 [f.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/master/src/03_yku/f.tsv

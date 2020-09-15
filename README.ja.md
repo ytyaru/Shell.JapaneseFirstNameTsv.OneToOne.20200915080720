@@ -8,13 +8,13 @@
 
 ファイル|行数|「読み」|「表記」
 --------|----|--------|--------
-[m.tsv][]||男のみ|男のみ
-[f.tsv][]||女のみ|女のみ
-[c.tsv][]||男女共通|男女共通
-[mc.tsv][]||男のみ|男女共通
-[fc.tsv][]||女のみ|男女共通
-[cm.tsv][]||男女共通|男のみ
-[cf.tsv][]||男女共通|女のみ
+[m.tsv][]|82732|男のみ|男のみ
+[f.tsv][]|76890|女のみ|女のみ
+[c.tsv][]|4518|男女共通|男女共通
+[mc.tsv][]|2072|男のみ|男女共通
+[fc.tsv][]|2437|女のみ|男女共通
+[cm.tsv][]|14151|男女共通|男のみ
+[cf.tsv][]|16504|男女共通|女のみ
 
 [m.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/master/src/03_yku/m.tsv
 [f.tsv]:https://raw.githubusercontent.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/master/src/03_yku/f.tsv
