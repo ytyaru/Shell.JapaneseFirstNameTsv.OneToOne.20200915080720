@@ -62,7 +62,7 @@ cd Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/src
 * It takes a long time to execute: `3h37m17s`
     * [21s](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/01_uniq/note.md)
     * [9m20s](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/02_common/note.md)
-    * [207m36s]https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/03_yku/note.md)
+    * [207m36s](https://github.com/ytyaru/Shell.JapaneseFirstNameTsv.OneToOne.20200915080720/blob/master/src/03_yku/note.md)
 
 # Author
 
